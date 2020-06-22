@@ -12,9 +12,18 @@ This is my own journal covering my techwriting adventures.
         1. [Applifting test](#test_app)
 1. [Learning](#Learning)
     1. [Websites](#websites)
+        1. [Berkeley how to write](#berkeley)
+        1. [Write the docs](#WTD)
+        1. [Tom preston](#Preston)
+        1. [TechwriterToolkit](#Toolkit)
+        1. [Sohamkamani](#Sohamkamani)
+        1. [Divio](#divio)
     1. [Books I have read](#books)
         1. [Andrew Etter: Modern Technical Writing](#MTW)
+        1. [Abby Covert: MESS](#Mess)
     1. [Videos I have seen](#videos)
+        1. [Zuzana Lena Ansorgová: Jak začít dokumentovat](#JZD)
+        1. [Zuzana Lena Ansorgová: Dokumentování software podle jeho životního cyklu](#DSZ)
         1. [Ellie Farrier: Wild Geeks: Poetry in the Digital Age](#Poetry)
         1. [Kayla Lee: The Super Effective Writing Process of Grammy-winning Artists](#Grammy)
         1. [Kat King: Building Empathy-Driven Developer Documentation](#empathy)
@@ -48,8 +57,20 @@ This is my personal collection of resources I have learned from. Feel free to br
 
 ### Websites<a name="websites"></a>
 This is a list of websites I have read in order to understand.
+#### [Berkeley how to write](https://guides.lib.berkeley.edu/how-to-write-good-documentation)<a name="berkeley"></a>
+Short and simple guide, mainly academically oriented. 
+#### [Write the docs](https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/)<a name="WTD"></a>
+Great community (Slack), template which can in certain projects be like 90 % make most of the job for you and resources over resources. 
+#### [Tom preston](https://tom.preston-werner.com/2010/08/23/readme-driven-development.html)<a name="Preston"></a>
+Interesting idea of README driven development for small project purposes, however, I don't see the scalability of this approach (since more advanced projects are more than just a README.md). -> strong stressing of KPIs and keypoints. 
+#### [TechwriterToolkit](https://techwritertoolkit.com/resources/reading-list/)<a name="Toolkit"></a>
+Interesting list of books that you could read to improve your documentations. 
 
+#### [Sohamkamani](https://www.sohamkamani.com/blog/how-to-write-good-documentation/)<a name="Sohamkamani"></a>
+A guide the empathises heavily that descriptions should be short, code should be problem solving and that documentation should contain examples.
 
+#### [Divio](https://documentation.divio.com)<a name="divio"></a>
+This terminology splits documentation into tutorials, how-to guides, technical reference and explanation -> and each of the types has their own motives and goals. Tutorials are learning oriented, how-to are problem oriented, explanations are understanding oriented and reference are information oriented. _However, I would say that the dev are not interested in my terminology, they care about solving their issues._
 
 ### Books I have read <a name="books"></a>
 As the title suggests, this section covers books I have read. If you can, toss a coin to the author, friend of techwriting. (But I understand if you can not)
@@ -58,8 +79,16 @@ Short book which is like _gateway drug_ for techwriting: explaining the basics o
 
 >__TAKE AWAYS__: Who do you write for?, Don't explain what API is in guide where you are integrating APIs, MD is good but it doesn't have many tools (like tables), so Asciidocs are sometimes the right tool. 
 
+#### [Abby Covert: MESS](http://www.howtomakesenseofanymess.com)<a name="Mess"></a>
+
+
 ### Vidoes I have seen  <a name="videos"></a>
 In this part, I keep notes on various online videos I have seen.
+#### [Zuzana Lena Ansorgová: Jak začít dokumentovat](https://www.youtube.com/watch?v=lgW3iTmgkh0&t=1201s) <a name="JZD"></a>
+Talk on the absolute basics of techwriting, from the concepts and tools (LaTeX) to tag languages and text publisher. MD is too simple for complex databases. How to show documentation for user(based on their level - the idea of inteligent content delivery(https://blog.nic.cz/2017/11/01/tcworld/)) Sphinx is good for complex things. Good starting point.
+>__TAKE AWAYS__: Tekom group [Certification](https://www.technical-communication.org/technical-writing/tekom-certification/international-tekom-certification-as-a-technical-writer), think about your writing. MD is limited (but works for small scales). Think how do you deliver content, what is tag languages. 
+#### [Zuzana Lena Ansorgová: Dokumentování software podle jeho životního cyklu](https://www.youtube.com/watch?v=nh4wAtkDHA4) <a name="DSZ"></a>
+
 #### [Ellie Farrier: Wild Geeks: Poetry in the Digital Age](https://www.youtube.com/watch?v=KBCRUTr2u0c ) <a name="Poetry"></a>
 
 Interesting talk that emphatises how writing is _universal_ and how even poetry can help with documentations. This resonanted with me since I like to write haikus (just 17 syllables to create image) and this limited space is something that _just makes sense_ in case of docs.
