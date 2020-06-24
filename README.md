@@ -28,6 +28,7 @@ This is my own journal covering my techwriting adventures.
         1. [Kayla Lee: The Super Effective Writing Process of Grammy-winning Artists](#Grammy)
         1. [Kat King: Building Empathy-Driven Developer Documentation](#empathy)
         1. [Jodie Putrino: Treating Documentation like Code: a Practical Account](#DLC)
+        1. [Jen Lambourne: Research Like You're Wrong](#Research)
 
 
         
@@ -85,9 +86,11 @@ Short book which is like _gateway drug_ for techwriting: explaining the basics o
 ### Vidoes I have seen  <a name="videos"></a>
 In this part, I keep notes on various online videos I have seen.
 #### [Zuzana Lena Ansorgová: Jak začít dokumentovat](https://www.youtube.com/watch?v=lgW3iTmgkh0&t=1201s) <a name="JZD"></a>
-Talk on the absolute basics of techwriting, from the concepts and tools (LaTeX) to tag languages and text publisher. MD is too simple for complex databases. How to show documentation for user(based on their level - the idea of inteligent content delivery(https://blog.nic.cz/2017/11/01/tcworld/)) Sphinx is good for complex things. Good starting point.
+Talk on the absolute basics of techwriting, from the concepts and tools (LaTeX) to tag languages and text publisher. MD is too simple for complex databases. How to show documentation for user(based on their level - the idea of inteligent content delivery(https://blog.nic.cz/2017/11/01/tcworld/ -> https://www.plusmeta.de/#software)) Sphinx is good for complex things. Good starting point.
 >__TAKE AWAYS__: Tekom group [Certification](https://www.technical-communication.org/technical-writing/tekom-certification/international-tekom-certification-as-a-technical-writer), think about your writing. MD is limited (but works for small scales). Think how do you deliver content, what is tag languages. 
 #### [Zuzana Lena Ansorgová: Dokumentování software podle jeho životního cyklu](https://www.youtube.com/watch?v=nh4wAtkDHA4) <a name="DSZ"></a>
+Talk on whole spectrum of documentations, the difference between process (in house) and product documentation (for end user (can be user, admin, dev or anyone)), good documentation always works with data from business/system analysis (to know key terms, conception (read Concept of Operations) and SRS (software, Requirements and specifications)) for better understanding. Think about how people will use your product (how does it work, what does it need, how to interact with it and more) and write for different levels of users (new wants basic understanding, advanced wants full reference (pro tip, add metadata and navigation to your documents to make them UX friendly))-
+>__TAKE AWAYS__: Always try to get as much information as I can, sort it to make it digestible and think for who this documentation is (is it inhouse, is it for outside? What does this text mean?)
 
 #### [Ellie Farrier: Wild Geeks: Poetry in the Digital Age](https://www.youtube.com/watch?v=KBCRUTr2u0c ) <a name="Poetry"></a>
 
@@ -102,3 +105,7 @@ Who is the reader? How to analyse if the docs are succesfull? -> Did this conten
 #### [Jodie Putrino: Treating Documentation like Code: a Practical Account](https://www.youtube.com/watch?v=Mzu-c-FoOdw)<a name="DLC"></a>
 How to create docs with code? -> choose the right Tools (Sphinx?), automate what you can, collaborate, AGILE (define, then design and adapt).Write -> review (push request) -> test (Some sort of tools, toolset, checks) -> publish (rst for writing) 
 >__TAKE AWAYS__: Nobody cares if you use automatizations or not, they care how to solve their issue. Create the best possible experience for the readers. 
+
+#### [Jen Lambourne: Research Like You're Wrong](https://www.youtube.com/watch?v=aCNbVf9Id5Y) <a name="Research"></a>
+You are not the user, you personally know more than the user about product, research what users need (their motivation, needs and language). User research is team sport (don't do it yourself), it can be done anytime (start is good but other time is also good), find out what do you know (so you can find the news things), User Research [Kanban](!https://trello.com/b/mh4R1J1G/user-research-knowledge-kanban), Question everything and try to prove me wrong, small people (5-7) is enough, but keep the rules of scientific sample. (What do they expect? Mights and more), Hawtorne effect (if under scope, you moderate your results), beware of leading questions, subjective interpretations, wants != needs (as a _person_ I need _something_ so that _something_) (Explain data source, label interpretations, answer hypothesis, make it understandable)
+>__TAKE AWAYS__: Critiques are not personal :D but take research like an academical research, talk less, think more and gather data from all people, analysis take time, wants are not needs. (@jenny_anne)
