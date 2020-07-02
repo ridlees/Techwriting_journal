@@ -21,6 +21,7 @@ This is my own journal covering my techwriting adventures.
     1. [Books I have read](#books)
         1. [Andrew Etter: Modern Technical Writing](#MTW)
         1. [Abby Covert: MESS](#Mess)
+        1. [John R. Kohl: The GlobaL English Style Guide](#TGESG)
     1. [Videos I have seen](#videos)
         1. [Zuzana Lena Ansorgová: Jak začít dokumentovat](#JZD)
         1. [Zuzana Lena Ansorgová: Dokumentování software podle jeho životního cyklu](#DSZ)
@@ -81,7 +82,25 @@ Short book which is like _gateway drug_ for techwriting: explaining the basics o
 >__TAKE AWAYS__: Who do you write for?, Don't explain what API is in guide where you are integrating APIs, MD is good but it doesn't have many tools (like tables), so Asciidocs are sometimes the right tool. 
 
 #### [Abby Covert: MESS](http://www.howtomakesenseofanymess.com)<a name="Mess"></a>
+An interesting book on how to "organise" _things_ into _objects_ that are in _locations and spaces_ and user affects them via _interface_. They are in larger groups _structures_ which are organized in _systems_ and _ecosystems_ (more systems together). Language matters (must be clear and used by all parties) -> every person making sense of mess does an ontology (lexicology of meanings). Become an Information Architect by understanding with who I am sorting this mess. Use maps (diagrams) to communicate your point across and to build a _taxanomy_ (classifications)
 
+To control your vocabulary:
+
+- Create a list of terms to explore.
+- Define each term as simply as you can.
+- Underline words within your definitions that need to be further defined, and define them.
+- Document the history, alternatives, and myths associated with each term.
+- Review your list of defined terms with some of your users. Refine the list based on their feedback.
+- Create a list of requirements that join your nouns and verbs together.
+
+
+>__TAKE AWAYS__: Designing _with_, not for. Write as simply as possible (you want to get your point, not flex vocabulary), there is no _right or wrong_ the intent matters. Set goals like [this](http://www.howtomakesenseofanymess.com/chapter/5/page/98/set-your-goals/)
+
+
+
+#### John R. Kohl: The GlobaL English Style Guide<a name="TGESG"></a>
+
+>__TAKE AWAYS__: 
 
 ### Vidoes I have seen  <a name="videos"></a>
 In this part, I keep notes on various online videos I have seen.
