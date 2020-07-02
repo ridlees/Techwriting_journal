@@ -4,6 +4,9 @@ This is my own journal covering my techwriting adventures.
 # Table of contents
 
 1. [Lexicon](#Lexicon)
+1. [Tools](#Tools)
+    1. [Node.js + VSC](#node_VSC)
+    1. [Docs to MD](#Docs2MD)
 1. [Notes](#Notes)
     1. [Emojis](#emojis)
 1. [Documentations](#Documentations)
@@ -33,10 +36,17 @@ This is my own journal covering my techwriting adventures.
 
 
         
-## Lexicon
+## Lexicon <a name="Lexicon"></a>
+
+## Tools <a name="Tools"></a>
 
 
-## Notes
+### Node.js + VSC <a name=node_VSC></a>
+Download [Node.js](https://nodejs.org/en/download/) and [Visual Studio Code](https://code.visualstudio.com/download) (my go to editor)
+
+### [Docs2MD](https://gsuite.google.com/marketplace/app/docs_to_markdown/700168918607) <a name="Docs2MD"></a>
+
+## Notes <a name="Notes"></a>
 
 ### [List of emojis supported by Github](https://gist.github.com/rxaviers/7360908) <a name="emojis"></a>
 
@@ -94,7 +104,7 @@ To control your vocabulary:
 - Create a list of requirements that join your nouns and verbs together.
 
 
->__TAKE AWAYS__: Designing _with_, not for. Write as simply as possible (you want to get your point, not flex vocabulary), there is no _right or wrong_ the intent matters. Set goals like [this](http://www.howtomakesenseofanymess.com/chapter/5/page/98/set-your-goals/)
+>__TAKE AWAYS__: Designing _with_, not for. Write as simply as possible (you want to get your point, not flex vocabulary), there is no _right or wrong_ the intent matters. Set goals like [this](http://www.howtomakesenseofanymess.com/chapter/5/page/98/set-your-goals/). More on [IA](http://abbytheia.com/2015/07/20/so-you-want-to-be-an-ia/)
 
 
 
