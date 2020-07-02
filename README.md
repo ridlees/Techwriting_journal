@@ -41,9 +41,12 @@ This is my own journal covering my techwriting adventures.
 ## Tools <a name="Tools"></a>
 
 
-### Node.js + VSC <a name=node_VSC></a>
+### Node.js + VSC <a name="node_VSC"></a>
 Download [Node.js](https://nodejs.org/en/download/) and [Visual Studio Code](https://code.visualstudio.com/download) (my go to editor). For Node.js, I use the [Node.js Modules Intellisense](https://marketplace.visualstudio.com/items?itemName=leizongmin.node-module-intellisense) and [Node.js Exec](https://marketplace.visualstudio.com/items?itemName=miramac.vscode-exec-node).
 
+## [Ngrok](https://ngrok.com) <a name="ngrok"></a>
+A tool to route localhost to internet (web testing)
+`./ngrok http 80`
 ### [Docs2MD](https://gsuite.google.com/marketplace/app/docs_to_markdown/700168918607) <a name="Docs2MD"></a>
 
 ## Notes <a name="Notes"></a>
