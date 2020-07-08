@@ -14,6 +14,9 @@ This is my own journal covering my techwriting adventures.
     1. [Ones that I have write and I like](#Wrote)
         1. [Applifting test](#test_app)
 1. [Learning](#Learning)
+    1. [Courses](#Courses)
+        1. [Technical Writing One](#Google1)
+        1. [Technical Writing Two](#Google2)
     1. [Websites](#websites)
         1. [Berkeley how to write](#berkeley)
         1. [Write the docs](#WTD)
@@ -70,6 +73,12 @@ _-_ The GIFs did not work in PDF at all, changing .md to .pdf is tricky
 ## Learning sources <a name="Learning"></a>
 This is my personal collection of resources I have learned from. Feel free to browse my personal notes :smirk:
 
+### Courses<a name="Courses"></a>
+When I find a nice online course, I try to take it. The ones with ✅ are the courses I complited.
+#### [Technical Writing One](https://developers.google.com/tech-writing/one)<a name="Google1"></a>
+
+#### [Technical Writing Two](https://developers.google.com/tech-writing/two)<a name="Google2"></a>
+
 ### Websites<a name="websites"></a>
 This is a list of websites I have read in order to understand.
 #### [Berkeley how to write](https://guides.lib.berkeley.edu/how-to-write-good-documentation)<a name="berkeley"></a>
@@ -112,8 +121,8 @@ To control your vocabulary:
 
 
 #### John R. Kohl: The GlobaL English Style Guide<a name="TGESG"></a>
-
->__TAKE AWAYS__: 
+The Global English Style Guide is a collection of rules. These rules improve your texts in numerous ways. The first improvement is understandability. The second improvement is how translatable your text is. Last, but not least improvements is a standartized way to approach writing. 
+>__TAKE AWAYS__: Be as simple as I can. Don't do long sentences. These sentences can confuse non-native readers. If you are creative enough, there is always _good sounding_ alternative to any sentence.
 
 ### Vidoes I have seen  <a name="videos"></a>
 In this part, I keep notes on various online videos I have seen.
